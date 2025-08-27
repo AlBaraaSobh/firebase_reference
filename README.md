@@ -1,16 +1,17 @@
-# elancer_firebase
+# 🔥 Firebase Reference
 
-A new Flutter project.
+A demo project using **Flutter + Firebase** aimed at providing **reference classes** for Firebase integration.  
+This is not a final app and does not focus on UI design, but rather serves as a code reference.
 
-## Getting Started
+## 🎯 Purpose
+- Reference for Firebase-related classes.
+- Examples of CRUD operations (Create – Read – Update – Delete).
+- Reusable code for future projects.
 
-This project is a starting point for a Flutter application.
+## 🚀 Usage
+1. Copy the classes from the `lib/` folder into your project.
+2. Add your own Firebase configuration.
+3. Use the code as a starting point for your apps.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Developer
+**AlBaraa Sobh** – [GitHub](https://github.com/AlBaraaSobh)
