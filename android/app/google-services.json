@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751582795940",
+    "project_id": "elancer-ed0a0",
+    "storage_bucket": "elancer-ed0a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751582795940:android:fd4eee74e4a1a0a930ae31",
+        "android_client_info": {
+          "package_name": "com.example.elancer_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45-d6DE7YQglkxsjlw4tthkAl_4LBuSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
